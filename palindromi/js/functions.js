@@ -19,5 +19,23 @@ function palindrome(word) {
         reverseWord += currentWord;
     }
 
-   
+    // risultato
+    console.log(reverseWord)
+
+    // variabile
+    let wordResult = ''
+
+    // condizione
+    if (word == reverseWord) {
+
+        wordResult = true
+
+    } else {
+
+        wordResult = false
+
+    }
+
+    // return
+    return wordResult;
 }
