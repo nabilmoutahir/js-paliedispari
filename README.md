@@ -22,7 +22,7 @@ Consigli del giorno
 
 ## SVOLGIMENTO Palindromi
 
-- chiedo prompt
+- chiedo parola tramite prompt
 
 - creo funzione per definire se palidroma
 
@@ -43,3 +43,23 @@ Consigli del giorno
 - stampo risultato
 
 ## SVOLGIMENTO Pari e dispari
+
+- chiedo numero tramite prompt
+
+- chiedo cosa sceglie tra paro o disparo
+
+- genero num per pc (invoco la funzione)
+
+   - creo funzione
+
+- sommo numeri (invoco funzione)
+
+   - creo funzione
+
+- verifico se 
+
+   - è pari 
+   
+   - o dispari
+
+- annuncio vincitore
